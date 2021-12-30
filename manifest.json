@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "description": "Matsugaya",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "matsugaya.glitch",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "matsugaya.glitch",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
